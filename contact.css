@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(images/po.jpg);
+    background-position: top;
+    background-size: cover;
+}
+
+.contact-title {
+    text-align: center;
+    color: aliceblue;
+}
+
+#h2 {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 50px;
+    color: aqua;
+    text-align: center;
+}
